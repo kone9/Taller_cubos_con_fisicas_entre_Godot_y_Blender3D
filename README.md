@@ -1,5 +1,5 @@
 # Taller_cubos_con_fisicas_entre_Godot_y_Blender3D
-En este proyecto esta creado un cubo con físicas importado desde Blender3D
+Usar Blender y Godot para crear cubos con físicas
 
 itchio proyect run: https://kone9.itch.io/taller-instancia-de-cubos-con-fsicas
 <a href='https://drive.google.com/file/d/1IA4_UR_eKByIe2YjJN9-go2-WPP46dsH/view?usp=drive_open&amp;usp=embed_facebook&source=ctrlq.org'><img src='https://lh6.googleusercontent.com/OsQYMztBEOuuSSynhqf-jiP-BEm-58jgLuQrDncqGvoLIEsdpBE0Tp6JSgE=w2400' /></a>
